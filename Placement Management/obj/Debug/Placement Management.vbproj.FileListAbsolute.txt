@@ -1,0 +1,375 @@
+E:\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+E:\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+E:\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+E:\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+E:\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+E:\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+E:\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+E:\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+E:\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAboutApp.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMBatch.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMDIPSForm.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMLogin.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMMDIMenus.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMPUCSForm.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMReportWindow.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByCutOffPercentage.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchDIPUSN.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByBatch.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchPUCUSN.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByUSN.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAddNewUser.resources
+E:\Placement Management\Placement Management\obj\Debug\Placement_Management.PMChangePassword.resources
+I:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+I:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+I:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+I:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMLogin.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAboutApp.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAddNewUser.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMBatch.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMChangePassword.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMDIPSForm.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMMDIMenus.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMPUCSForm.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMReportWindow.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByCutOffPercentage.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchDIPUSN.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByBatch.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchPUCUSN.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByUSN.resources
+I:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMLogin.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAboutApp.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMAddNewUser.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMBatch.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMChangePassword.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMDIPSForm.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMMDIMenus.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMPUCSForm.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMReportWindow.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByCutOffPercentage.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchDIPUSN.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByBatch.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchPUCUSN.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMSearchByUSN.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PMView.resources
+J:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Form1.resources
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\office.dll
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\office.xml
+J:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\office.dll
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\office.xml
+D:\14-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSignInInfo.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSrchUSNInfo.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AboutApp.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AddNewUser.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Batch.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ChangePassword.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_DIPSForm.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PUCSForm.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportWindow.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByCutOffPercentage.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchDIPUSN.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByBatch.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchPUCUSN.resources
+D:\14-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByUSN.resources
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\office.dll
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\office.xml
+G:\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSignInInfo.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSrchUSNInfo.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AboutApp.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AddNewUser.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Batch.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ChangePassword.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_DIPSForm.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PUCSForm.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportWindow.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByCutOffPercentage.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchDIPUSN.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByBatch.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchPUCUSN.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByUSN.resources
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+G:\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\office.dll
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\office.xml
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSignInInfo.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSrchUSNInfo.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AboutApp.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AddNewUser.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Batch.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ChangePassword.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_DIPSForm.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PUCSForm.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportWindow.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByCutOffPercentage.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchDIPUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByBatch.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchPUCUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SearchByUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PlacementStatastics.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpSignInInfo.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportWindow.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\office.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PlacementStatasticsUpdate.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PlacementStatasticsSave.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpPlacementStatastics.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportByBatchGroup.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AddBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_DIPForm.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PUCForm.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_DIPSSearchUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportByBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_PUCSearchUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ReportByUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_ExpBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_AboutUs.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Debug\Interop.Microsoft.Office.Core.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Debug\Interop.VBIDE.dll
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\PlacementManagement.accdb
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Placement Management SETUP\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Sanjay Arakeri\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+M:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+M:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+M:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+M:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+M:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+M:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\PlacementManagement.mdb
+I:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+I:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+I:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+I:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+I:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+E:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+E:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+E:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+E:\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+E:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\ResolveAssemblyReference.cache
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+L:\Programming Languages\Projects Completed\VB.NET\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+K:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+K:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+K:\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\stdole.dll
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\office.dll
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Todayl Exe\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\office.xml
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.exe
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Placement Management.xml
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\office.dll
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\stdole.dll
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\bin\Debug\office.xml
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignIn.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInAddNewUser.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_SignInChangePassword.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_Register.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.PM_MDIMenus.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement_Management.Resources.resources
+C:\Users\Sanjay\Desktop\Dump\Projects\C# Projects\Placement Management Final - 1\Placement Management\Placement Management\obj\Debug\Placement Management.vbproj.GenerateResource.Cache

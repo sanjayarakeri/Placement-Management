@@ -1,0 +1,491 @@
+E:\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+E:\Placement Management\Placement Management\bin\Release\Placement Management.exe
+E:\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+E:\Placement Management\Placement Management\bin\Release\Placement Management.xml
+E:\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMLogin.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMAboutApp.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMAddNewUser.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMBatch.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMChangePassword.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMDIPSForm.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMMDIMenus.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMPUCSForm.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMReportWindow.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMSearchByCutOffPercentage.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMSearchDIPUSN.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMSearchByBatch.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMSearchPUCUSN.resources
+E:\Placement Management\Placement Management\obj\Release\Placement_Management.PMSearchByUSN.resources
+E:\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+E:\Placement Management\Placement Management\obj\Release\Placement Management.exe
+E:\Placement Management\Placement Management\obj\Release\Placement Management.xml
+E:\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PlacementStatastics.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSrchUSNInfo.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutApp.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddNewUser.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_Batch.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ChangePassword.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSForm.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSForm.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SearchByCutOffPercentage.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SearchDIPUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SearchByBatch.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SearchPUCUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SearchByUSN.resources
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\20-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\office.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Vbe.Interop.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatastics.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsSave.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsUpdate.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+G:\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatastics.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsSave.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsUpdate.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+G:\New Folder\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatastics.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsSave.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatasticsUpdate.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatastics.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+I:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+J:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+H:\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+C:\Documents and Settings\VINAYAKA21\Desktop\Final Touch\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.exe
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Placement Management.xml
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.exe
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.xml
+E:\Placement Software 19-10-2013\21-09-2013\16-09-2013\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Placement Management.exe
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Placement Management.xml
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\office.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+C:\Documents and Settings\VINAYAKA 21\Desktop\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.xml
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+G:\DOT NET\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.xml
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+G:\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\PenDrive\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\PenDrive\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\PenDrive\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Users\Sanjay\Desktop\PenDrive\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Users\Sanjay\Desktop\PenDrive\Microsoft .NET\Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.xml
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpPlacementStatistics.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpCutOffPercentageToExcel.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpSignInInfo.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ExpBatch.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsSave.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PlacementStatisticsUpdate.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatchGroup.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AboutUs.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_AddBatch.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPForm.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCForm.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportWindow.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByCutOffPercentage.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_DIPSSearchUSN.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByBatch.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_PUCSearchUSN.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_ReportByUSN.resources
+C:\Users\Sanjay\Desktop\Projects Completed\D O T -- N E T -- P R O J E C T S\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\Projects Completed\Projects Completed\D O T == N E T\College Projects\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Users\Sanjay\Desktop\Projects Completed\Projects Completed\D O T == N E T\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Users\Sanjay\Desktop\Projects Completed\Projects Completed\D O T == N E T\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Users\Sanjay\Desktop\Projects Completed\Projects Completed\D O T == N E T\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Users\Sanjay\Desktop\Projects Completed\Projects Completed\D O T == N E T\College Projects\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\ResolveAssemblyReference.cache
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.ResolveComReference.cache
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignIn.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInAddNewUser.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_SignInChangePassword.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_Register.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.PM_MDIMenus.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement_Management.Resources.resources
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.vbproj.GenerateResource.Cache
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe.config
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.exe
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.pdb
+C:\Placement Management SETUP\Placement Management\Placement Management\bin\Release\Placement Management.xml
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.exe
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.xml
+C:\Placement Management SETUP\Placement Management\Placement Management\obj\Release\Placement Management.pdb
